@@ -51,7 +51,8 @@ npx create-react-app nom_de_projet (
 pour créer votre projet.)
 
 Après cette commande, un repertoire sera créé portant
-le nom de votre projet supprime son contenu et met
+le nom de votre projet supprime tout  son contenu
+sauf le repertoire "node_modules" et met
 le contenu de projet que vous avez téléchargé.
 
 
